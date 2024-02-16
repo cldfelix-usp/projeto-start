@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lucianafront/lucianafront.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/lucianafront/lucianafront.github.io/static/js/main.d41b100f.js",
-    "static/js/453.5565870f.chunk.js": "/lucianafront/lucianafront.github.io/static/js/453.5565870f.chunk.js",
-    "index.html": "/lucianafront/lucianafront.github.io/index.html",
-    "main.f855e6bc.css.map": "/lucianafront/lucianafront.github.io/static/css/main.f855e6bc.css.map",
-    "main.d41b100f.js.map": "/lucianafront/lucianafront.github.io/static/js/main.d41b100f.js.map",
-    "453.5565870f.chunk.js.map": "/lucianafront/lucianafront.github.io/static/js/453.5565870f.chunk.js.map"
+    "main.css": "/cldfelix-usp/projeto-start/static/css/main.f855e6bc.css",
+    "main.js": "/cldfelix-usp/projeto-start/static/js/main.a56fff7d.js",
+    "static/js/453.5565870f.chunk.js": "/cldfelix-usp/projeto-start/static/js/453.5565870f.chunk.js",
+    "index.html": "/cldfelix-usp/projeto-start/index.html",
+    "main.f855e6bc.css.map": "/cldfelix-usp/projeto-start/static/css/main.f855e6bc.css.map",
+    "main.a56fff7d.js.map": "/cldfelix-usp/projeto-start/static/js/main.a56fff7d.js.map",
+    "453.5565870f.chunk.js.map": "/cldfelix-usp/projeto-start/static/js/453.5565870f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d41b100f.js"
+    "static/js/main.a56fff7d.js"
   ]
 }
